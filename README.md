@@ -18,13 +18,13 @@
 
 ## 530.3
 
+- Scripting VirusTotal submissions
+
+    - [vt-upload.py](https://ryananicholson.github.io/sec530-demos/day3/VT-Upload.html)
+
 ## 530.4
 
 ## 530.5
-
-- Scripting VirusTotal submissions
-
-    - [vt-upload.py](https://ryananicholson.github.io/sec530-demos/day5/VT-Upload.html)
 
 - Collecting username and password intel
 
