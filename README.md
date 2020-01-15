@@ -14,7 +14,7 @@
 
 ### Get the latest BOGONS
 
-[Get-Bogons.ps1](https://github.com/ryananicholson/sec530-demos/blob/master/day2/get-bogons.gif?raw=true)
+[Get-Bogons.ps1](https://ryananicholson.github.io/sec530-demos/day2/Get-Bogons.html)
 
 ## 530.3
 
