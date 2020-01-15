@@ -22,6 +22,10 @@
 
     - [vt-upload.py](https://ryananicholson.github.io/sec530-demos/day3/VT-Upload.html)
 
+- HSTS to prevent users from clicking through warnings
+
+    - [HSTS Preload](https://ryananicholson.github.io/sec530-demos/day3/HSTS.html)
+
 ## 530.4
 
 ## 530.5
