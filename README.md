@@ -24,7 +24,7 @@
 
 - Scripting VirusTotal submissions
 
-    - [vt-upload.py](https://github.com/ryananicholson/sec530-demos/blob/master/day5/vt-upload.gif?raw=true)
+    - [vt-upload.py](https://ryananicholson.github.io/sec530-demos/day5/VT-Upload.html)
 
 - Collecting username and password intel
 
