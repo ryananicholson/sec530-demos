@@ -6,13 +6,13 @@
 
     - [Fail2Ban](https://ryananicholson.github.io/sec530-demos/day1/Fail2Ban.html)
 
-- DO NOT use Type 7 passwords. Here's why
+- DO NOT use Type 7 passwords. Here's why...
 
     - [7crack.py](https://ryananicholson.github.io/sec530-demos/day1/7crack.html)
 
 ## 530.2
 
-- Get the latest BOGONS
+- Get the latest BOGONs
 
     - [Get-Bogons.ps1](https://ryananicholson.github.io/sec530-demos/day2/Get-Bogons.html)
 
