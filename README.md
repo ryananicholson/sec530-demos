@@ -4,7 +4,7 @@
 
 [Fail2Ban](https://ryananicholson.github.io/sec530-demos/day1/Fail2Ban.html)
 
-[7crack.py](https://github.com/ryananicholson/sec530-demos/blob/master/day1/7crack.gif?raw=true)
+[7crack.py](https://ryananicholson.github.io/sec530-demos/day1/7crack.html)
 
 ## 530.2
 
