@@ -28,6 +28,10 @@
 
 ## 530.4
 
+- Dangers of SETUID programs
+
+    - [SETUID](https://ryananicholson.github.io/sec530-demos/day4/SETUID.html)
+
 ## 530.5
 
 - Collecting username and password intel
