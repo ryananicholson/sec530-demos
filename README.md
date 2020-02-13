@@ -38,8 +38,10 @@
 
 ## 530.5
 
-- Collecting username and password intel
+- Finding obfuscated PowerShell in event logs
 
-    - [Finding Obfuscated PowerShell](https://ryananicholson.github.io/sec530-demos/day5/malicious-pwsh.html))
+    - [malicious-pwsh](https://ryananicholson.github.io/sec530-demos/day5/malicious-pwsh.html))
+
+- Collecting username and password intel
 
     - [OpenCanary](https://ryananicholson.github.io/sec530-demos/day5/OpenCanary.html)
