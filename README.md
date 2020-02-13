@@ -40,4 +40,6 @@
 
 - Collecting username and password intel
 
+    - [Finding Obfuscated PowerShell](https://ryananicholson.github.io/sec530-demos/day5/malicious-pwsh.html))
+
     - [OpenCanary](https://ryananicholson.github.io/sec530-demos/day5/OpenCanary.html)
