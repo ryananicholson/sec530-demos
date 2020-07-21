@@ -10,11 +10,11 @@
     
     - [Rogue Pi](https://ryananicholson.github.io/sec530-demos/day1/rogue-pi.html)
 
+## 530.2
+
 - DO NOT use Type 7 passwords. Here's why...
 
     - [7crack.py](https://ryananicholson.github.io/sec530-demos/day1/7crack.html)
-
-## 530.2
 
 - Get the latest BOGONs
 
